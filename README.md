@@ -1,4 +1,4 @@
-This backend code provides comprehensive functionality for server-side pagination, filtration, and sorting. It's designed to seamlessly handle large datasets efficiently. The code is built using Node.js and Express, with MongoDB Atlas serving as the backend database solution.
+This backend code provides comprehensive functionality for server-side pagination, filtration, sorting and response format. It's designed to seamlessly handle large datasets efficiently. The code is built using Node.js and Express, with MongoDB Atlas serving as the backend database solution.
 
 **To get started with this backend:**
 
